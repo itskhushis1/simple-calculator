@@ -1,2 +1,2 @@
 # simple-calculator
-using python
+#python
